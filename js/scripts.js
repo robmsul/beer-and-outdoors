@@ -1,39 +1,113 @@
 $(function(){
   console.log('scripts loaded');
 
-var url= 'js/breweries.json';
-var breweries = '';
+// highcharts bubblechart
 
-$.ajax({
-type: 'GET',
-url: url,
-data: breweries,
-async: true,
-dataType: 'json',
-success: function(breweries){
-  console.log(breweries);
 
-  var chart = new Taucharts.Chart({
+document.addEventListener('DOMContentLoaded', function () {
+    
+    var options = {
+      chart: {
+          type: 'bubble',
+          plotBorderWidth: 1,
+          zoomType: 'xy'
+      },
 
-                data: breweries,
-                type: 'scatterplot',
-                x: 'Craft Breweries Per Million',
-                y: 'Ski Areas Per Million',
-                color: 'Average Snowfall',
-                size: 'State Population',
-                plugins: [Taucharts.api.plugins.get('tooltip')(),
-                Taucharts.api.plugins.get('legend')()],
-                  //fields: ['State', 'Craft Breweries', 'Ski Areas', 'State Population', 'Craft Breweries Per Million', 'Ski Areas Per Million']
-                  guide: {
-                    x: {label:'Craft Breweries Per Million People'},  // custom label for X axis
-                    y: {label:'Ski Areas Per Million People'},    // custom label for Y axis
-                    padding: {b:40,l:40,t:10,r:10}   // chart paddings
+      legend: {
+          enabled: true
+      },
+
+      title: {
+          text: 'Craft Breweries and Ski Areas by State'
+      },
+
+      subtitle: {
+          text: 'Sources: <a href="http://www.euromonitor.com/">Euromonitor</a> and <a href="https://data.oecd.org/">OECD</a>'
+      },
+
+      xAxis: {
+          gridLineWidth: 1,
+          title: {
+              text: 'Daily fat intake'
+          },
+          labels: {
+              format: '{value} gr'
+          },
+          plotLines: [{
+              color: 'black',
+              dashStyle: 'dot',
+              width: 2,
+              value: 65,
+              label: {
+                  rotation: 0,
+                  y: 15,
+                  style: {
+                      fontStyle: 'italic'
                   },
-});// close Taucharts
-            chart.renderTo('#brewVsSki');
-} // close success
+                  text: 'Safe fat intake 65g/day'
+              },
+              zIndex: 3
+          }]
+      },
 
-}); //close ajax
+      yAxis: {
+          startOnTick: false,
+          endOnTick: false,
+          title: {
+              text: 'Daily sugar intake'
+          },
+          labels: {
+              format: '{value} gr'
+          },
+          maxPadding: 0.2,
+          plotLines: [{
+              color: 'black',
+              dashStyle: 'dot',
+              width: 2,
+              value: 50,
+              label: {
+                  align: 'right',
+                  style: {
+                      fontStyle: 'italic'
+                  },
+                  text: 'Safe sugar intake 50g/day',
+                  x: -10
+              },
+              zIndex: 3
+          }]
+      },
+
+      tooltip: {
+          useHTML: true,
+          headerFormat: '<table>',
+          pointFormat: '<tr><th colspan="2"><h3>{point.state}</h3></th></tr>' +
+              '<tr><th>Craft Breweries:</th><td>{point.breweries}</td></tr>' +
+              '<tr><th>Ski Areas:</th><td>{point.skiAreas}</td></tr>' +
+              '<tr><th>State Population:</th><td>{point.statePop} million</td></tr>',
+          footerFormat: '</table>',
+          followPointer: true
+      },
+
+      plotOptions: {
+          series: {
+              dataLabels: {
+                  enabled: true,
+                  format: '{point.state}'
+              }
+          }
+      },
+        series: [{}]
+    };
+
+    Highcharts.ajax({
+        url: 'js/breweries.json',
+        success: function(data) {
+            options.series[0].data = data;
+            Highcharts.Chart('brewVsSki', options);
+        }
+    });
+
+});  //end bubble
 
 // HIGHMAP ----------------------------
 var data = [
