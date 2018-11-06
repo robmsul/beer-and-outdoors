@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="A data journalism story on the relationship between craft beer and outdoor sports.">
+<meta name="keywords" content="beer, brewery, microbrewery, breweries, craft, mountains, ski, skiing, bike, biking, resort">
+<meta name="author" content="Rob Sulaski">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<!-- color brewer ----- <link href="path_to_tauCharts/css/colorbrewer.css" rel="stylesheet"/> -->
+
+<title>Craft Breweries and Outdoor Sports</title>
+</head>
+
+<body>
+<div class="nav">
+  <div id="frsklogo">
+    <a href="#"><img src="images/freeskier-logo.png" alt="Freeskier Magazine" height="35px"></a>
+  </div>
+
+  <div class="topnav" id="myTopnav">
+    <a href="#">Gear Reviews</a>
+    <a href="#">Resort Guide</a>
+    <a href="#">Brand Guide</a>
+    <a href="#">Videos</a>
+    <a href="#">Stories</a>
+    <a href="#">Travel</a>
+    <a href="#">Subscribe</a>
+    <i class="fab fa-facebook full-nav" style="color:white"></i>
+    <i class="fab fa-instagram full-nav" style="color:white"></i>
+    <i class="fab fa-twitter full-nav" style="color:white"></i>
+    <i class="fas fa-search full-nav" style="color:white"></i>
+    <a href="javascript:void(0);" class="icon">
+      <i class="fas fa-search fa-2x" style="color:white"></i>
+      <i class="fas fa-bars fa-2x" style="color:white" onclick=""></i>
+    </a>
+  </div>
+</div>
+
+<div class="story">
+  <div class="header">
+    <img src="images/craft-beer-on-slopes.jpg" alt="craft beer on ski slopes" width="100%">
+    <h2>Why are craft breweries and ski resorts the perfect combo?</h2>
+  </div>
+
+  <div id="map-states">
+  </div>
+
+  <div id="topSki" style="min-width: 300px; height: 400px; margin: 0 auto">
+  </div>
+
+
+  <div id="brewVsSki">
+
+  </div>
+</div>
+
+<div class="footer">
+  <div class="bot-nav">
+    <div><a href="#">Contact</a></div>
+    <div><a href="#">Advertise</a></div>
+    <div><a href="#">Subscribe</a></div>
+    <div><a href="#">Freeskier Stickers</a></div>
+    <div><a href="#">Terms and Conditions</a></div>
+    <div><a href="#">Privacy Policy</a></div>
+    <div><a href="#">Careers</a></div>
+  </div>
+  <div class="copywrite">
+    <p>© 1997 - 2017 Storm Mountain Media</p>
+  </div>
+  <div class="strm-mtn">
+    <a href="#"><img src="images/smm.png" alt="Storm Mountain Media" height="65px"></a>
+  </div>
+</div>
+
+<!--jQuery-->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="crossorigin="anonymous"></script>
+<!--D3-->
+  <script src="https://cdn.jsdelivr.net/npm/d3@4.13.0/build/d3.min.js" charset="utf-8"></script>
+<!--TauCharts-->
+  <script src="https://cdn.jsdelivr.net/npm/taucharts@2/dist/taucharts.min.js" type="text/javascript"></script>
+  <!-- brewer color -----
+  <script src="path_to_tauCharts/src/addons/color-brewer.js"></script>
+
+<!--HighMaps-->
+<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/mapdata/countries/us/us-all.js"></script>
+<!-- Highcharts-->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+
+  <!--my JS-->
+  <script src="js/scripts.js"></script>
+
+</body>
+
+</html>

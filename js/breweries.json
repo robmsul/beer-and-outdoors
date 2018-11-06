@@ -1,0 +1,512 @@
+[
+  {
+    "State": "Vermont",
+    "Craft Breweries": 55,
+    "State Population": 0.62,
+    "Craft Breweries Per Million": 88.71,
+    "Ski Areas": 26,
+    "Ski Areas Per Million": 41.94,
+    "Average Snowfall": 89,
+    "": ""
+  },
+  {
+    "State": "Maine",
+    "Craft Breweries": 99,
+    "State Population": 1.34,
+    "Craft Breweries Per Million": 73.88,
+    "Ski Areas": 20,
+    "Ski Areas Per Million": 14.93,
+    "Average Snowfall": 91,
+    "": ""
+  },
+  {
+    "State": "Montana",
+    "Craft Breweries": 75,
+    "State Population": 1.05,
+    "Craft Breweries Per Million": 71.43,
+    "Ski Areas": 14,
+    "Ski Areas Per Million": 13.33,
+    "Average Snowfall": 55,
+    "": ""
+  },
+  {
+    "State": "Oregon",
+    "Craft Breweries": 266,
+    "State Population": 4.14,
+    "Craft Breweries Per Million": 64.25,
+    "Ski Areas": 12,
+    "Ski Areas Per Million": 2.9,
+    "Average Snowfall": 41,
+    "": ""
+  },
+  {
+    "State": "Colorado",
+    "Craft Breweries": 348,
+    "State Population": 5.61,
+    "Craft Breweries Per Million": 62.03,
+    "Ski Areas": 31,
+    "Ski Areas Per Million": 5.53,
+    "Average Snowfall": 104,
+    "": ""
+  },
+  {
+    "State": "Washington",
+    "Craft Breweries": 369,
+    "State Population": 7.41,
+    "Craft Breweries Per Million": 49.8,
+    "Ski Areas": 16,
+    "Ski Areas Per Million": 2.16,
+    "Average Snowfall": 120,
+    "": ""
+  },
+  {
+    "State": "Alaska",
+    "Craft Breweries": 36,
+    "State Population": 0.74,
+    "Craft Breweries Per Million": 48.65,
+    "Ski Areas": 9,
+    "Ski Areas Per Million": 12.16,
+    "Average Snowfall": 98,
+    "": ""
+  },
+  {
+    "State": "New Hampshire",
+    "Craft Breweries": 58,
+    "State Population": 1.34,
+    "Craft Breweries Per Million": 43.28,
+    "Ski Areas": 28,
+    "Ski Areas Per Million": 20.9,
+    "Average Snowfall": 101,
+    "": ""
+  },
+  {
+    "State": "Wyoming",
+    "Craft Breweries": 24,
+    "State Population": 0.58,
+    "Craft Breweries Per Million": 41.38,
+    "Ski Areas": 9,
+    "Ski Areas Per Million": 15.52,
+    "Average Snowfall": 73,
+    "": ""
+  },
+  {
+    "State": "Michigan",
+    "Craft Breweries": 330,
+    "State Population": 9.96,
+    "Craft Breweries Per Million": 33.13,
+    "Ski Areas": 44,
+    "Ski Areas Per Million": 4.42,
+    "Average Snowfall": 102,
+    "": ""
+  },
+  {
+    "State": "New Mexico",
+    "Craft Breweries": 67,
+    "State Population": 2.09,
+    "Craft Breweries Per Million": 32.06,
+    "Ski Areas": 9,
+    "Ski Areas Per Million": 4.31,
+    "Average Snowfall": 22,
+    "": ""
+  },
+  {
+    "State": "Idaho",
+    "Craft Breweries": 54,
+    "State Population": 1.72,
+    "Craft Breweries Per Million": 31.4,
+    "Ski Areas": 17,
+    "Ski Areas Per Million": 9.88,
+    "Average Snowfall": 64,
+    "": ""
+  },
+  {
+    "State": "Minnesota",
+    "Craft Breweries": 158,
+    "State Population": 5.58,
+    "Craft Breweries Per Million": 28.32,
+    "Ski Areas": 20,
+    "Ski Areas Per Million": 3.58,
+    "Average Snowfall": 60,
+    "": ""
+  },
+  {
+    "State": "Wisconsin",
+    "Craft Breweries": 160,
+    "State Population": 5.8,
+    "Craft Breweries Per Million": 27.59,
+    "Ski Areas": 30,
+    "Ski Areas Per Million": 5.17,
+    "Average Snowfall": 47,
+    "": ""
+  },
+  {
+    "State": "Nebraska",
+    "Craft Breweries": 49,
+    "State Population": 1.92,
+    "Craft Breweries Per Million": 25.52,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 32,
+    "": ""
+  },
+  {
+    "State": "North Carolina",
+    "Craft Breweries": 257,
+    "State Population": 10.27,
+    "Craft Breweries Per Million": 25.02,
+    "Ski Areas": 6,
+    "Ski Areas Per Million": 0.58,
+    "Average Snowfall": 16,
+    "": ""
+  },
+  {
+    "State": "Iowa",
+    "Craft Breweries": 76,
+    "State Population": 3.15,
+    "Craft Breweries Per Million": 24.13,
+    "Ski Areas": 4,
+    "Ski Areas Per Million": 1.27,
+    "Average Snowfall": 34,
+    "": ""
+  },
+  {
+    "State": "Virginia",
+    "Craft Breweries": 190,
+    "State Population": 8.47,
+    "Craft Breweries Per Million": 22.43,
+    "Ski Areas": 5,
+    "Ski Areas Per Million": 0.59,
+    "Average Snowfall": 18,
+    "": ""
+  },
+  {
+    "State": "Pennsylvania",
+    "Craft Breweries": 282,
+    "State Population": 12.81,
+    "Craft Breweries Per Million": 22.01,
+    "Ski Areas": 26,
+    "Ski Areas Per Million": 2.03,
+    "Average Snowfall": 51,
+    "": ""
+  },
+  {
+    "State": "Delaware",
+    "Craft Breweries": 21,
+    "State Population": 0.96,
+    "Craft Breweries Per Million": 21.88,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 21,
+    "": ""
+  },
+  {
+    "State": "Indiana",
+    "Craft Breweries": 137,
+    "State Population": 6.67,
+    "Craft Breweries Per Million": 20.54,
+    "Ski Areas": 2,
+    "Ski Areas Per Million": 0.3,
+    "Average Snowfall": 34,
+    "": ""
+  },
+  {
+    "State": "California",
+    "Craft Breweries": 764,
+    "State Population": 39.54,
+    "Craft Breweries Per Million": 19.32,
+    "Ski Areas": 29,
+    "Ski Areas Per Million": 0.73,
+    "Average Snowfall": 60,
+    "": ""
+  },
+  {
+    "State": "Ohio",
+    "Craft Breweries": 225,
+    "State Population": 11.66,
+    "Craft Breweries Per Million": 19.3,
+    "Ski Areas": 5,
+    "Ski Areas Per Million": 0.43,
+    "Average Snowfall": 41,
+    "": ""
+  },
+  {
+    "State": "Massachusetts",
+    "Craft Breweries": 129,
+    "State Population": 6.86,
+    "Craft Breweries Per Million": 18.8,
+    "Ski Areas": 14,
+    "Ski Areas Per Million": 2.04,
+    "Average Snowfall": 56,
+    "": ""
+  },
+  {
+    "State": "South Dakota",
+    "Craft Breweries": 16,
+    "State Population": 0.87,
+    "Craft Breweries Per Million": 18.39,
+    "Ski Areas": 3,
+    "Ski Areas Per Million": 3.45,
+    "Average Snowfall": 40,
+    "": ""
+  },
+  {
+    "State": "D.C.",
+    "Craft Breweries": 12,
+    "State Population": 0.69,
+    "Craft Breweries Per Million": 17.39,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 19,
+    "": ""
+  },
+  {
+    "State": "Connecticut",
+    "Craft Breweries": 60,
+    "State Population": 3.59,
+    "Craft Breweries Per Million": 16.71,
+    "Ski Areas": 6,
+    "Ski Areas Per Million": 1.67,
+    "Average Snowfall": 39,
+    "": ""
+  },
+  {
+    "State": "New York",
+    "Craft Breweries": 329,
+    "State Population": 19.85,
+    "Craft Breweries Per Million": 16.57,
+    "Ski Areas": 52,
+    "Ski Areas Per Million": 2.62,
+    "Average Snowfall": 79,
+    "": ""
+  },
+  {
+    "State": "Rhode Island",
+    "Craft Breweries": 17,
+    "State Population": 1.06,
+    "Craft Breweries Per Million": 16.04,
+    "Ski Areas": 1,
+    "Ski Areas Per Million": 0.94,
+    "Average Snowfall": 30,
+    "": ""
+  },
+  {
+    "State": "North Dakota",
+    "Craft Breweries": 12,
+    "State Population": 0.76,
+    "Craft Breweries Per Million": 15.79,
+    "Ski Areas": 2,
+    "Ski Areas Per Million": 2.63,
+    "Average Snowfall": 41,
+    "": ""
+  },
+  {
+    "State": "Illinois",
+    "Craft Breweries": 200,
+    "State Population": 12.8,
+    "Craft Breweries Per Million": 15.63,
+    "Ski Areas": 6,
+    "Ski Areas Per Million": 0.47,
+    "Average Snowfall": 23,
+    "": ""
+  },
+  {
+    "State": "Missouri",
+    "Craft Breweries": 91,
+    "State Population": 6.11,
+    "Craft Breweries Per Million": 14.89,
+    "Ski Areas": 2,
+    "Ski Areas Per Million": 0.33,
+    "Average Snowfall": 19,
+    "": ""
+  },
+  {
+    "State": "Arizona",
+    "Craft Breweries": 96,
+    "State Population": 7.02,
+    "Craft Breweries Per Million": 13.68,
+    "Ski Areas": 4,
+    "Ski Areas Per Million": 0.57,
+    "Average Snowfall": 25,
+    "": ""
+  },
+  {
+    "State": "Nevada",
+    "Craft Breweries": 40,
+    "State Population": 3,
+    "Craft Breweries Per Million": 13.33,
+    "Ski Areas": 5,
+    "Ski Areas Per Million": 1.67,
+    "Average Snowfall": 27,
+    "": ""
+  },
+  {
+    "State": "West Virginia",
+    "Craft Breweries": 23,
+    "State Population": 1.82,
+    "Craft Breweries Per Million": 12.64,
+    "Ski Areas": 5,
+    "Ski Areas Per Million": 2.75,
+    "Average Snowfall": 50,
+    "": ""
+  },
+  {
+    "State": "Hawaii",
+    "Craft Breweries": 18,
+    "State Population": 1.43,
+    "Craft Breweries Per Million": 12.59,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 0,
+    "": ""
+  },
+  {
+    "State": "Kansas",
+    "Craft Breweries": 36,
+    "State Population": 2.91,
+    "Craft Breweries Per Million": 12.37,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 22,
+    "": ""
+  },
+  {
+    "State": "Tennessee",
+    "Craft Breweries": 82,
+    "State Population": 6.72,
+    "Craft Breweries Per Million": 12.2,
+    "Ski Areas": 1,
+    "Ski Areas Per Million": 0.15,
+    "Average Snowfall": 13,
+    "": ""
+  },
+  {
+    "State": "South Carolina",
+    "Craft Breweries": 61,
+    "State Population": 5.02,
+    "Craft Breweries Per Million": 12.15,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 5,
+    "": ""
+  },
+  {
+    "State": "Maryland",
+    "Craft Breweries": 73,
+    "State Population": 6.05,
+    "Craft Breweries Per Million": 12.07,
+    "Ski Areas": 1,
+    "Ski Areas Per Million": 0.17,
+    "Average Snowfall": 36,
+    "": ""
+  },
+  {
+    "State": "Kentucky",
+    "Craft Breweries": 52,
+    "State Population": 4.45,
+    "Craft Breweries Per Million": 11.69,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 18,
+    "": ""
+  },
+  {
+    "State": "Arkansas",
+    "Craft Breweries": 35,
+    "State Population": 3,
+    "Craft Breweries Per Million": 11.67,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 5,
+    "": ""
+  },
+  {
+    "State": "Florida",
+    "Craft Breweries": 243,
+    "State Population": 20.98,
+    "Craft Breweries Per Million": 11.58,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 0.1,
+    "": ""
+  },
+  {
+    "State": "New Jersey",
+    "Craft Breweries": 90,
+    "State Population": 9.01,
+    "Craft Breweries Per Million": 9.99,
+    "Ski Areas": 2,
+    "Ski Areas Per Million": 0.22,
+    "Average Snowfall": 21,
+    "": ""
+  },
+  {
+    "State": "Utah",
+    "Craft Breweries": 30,
+    "State Population": 3.1,
+    "Craft Breweries Per Million": 9.68,
+    "Ski Areas": 14,
+    "Ski Areas Per Million": 4.52,
+    "Average Snowfall": 71,
+    "": ""
+  },
+  {
+    "State": "Texas",
+    "Craft Breweries": 251,
+    "State Population": 28.3,
+    "Craft Breweries Per Million": 8.87,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 8,
+    "": ""
+  },
+  {
+    "State": "Louisiana",
+    "Craft Breweries": 33,
+    "State Population": 4.68,
+    "Craft Breweries Per Million": 7.05,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 0.5,
+    "": ""
+  },
+  {
+    "State": "Alabama",
+    "Craft Breweries": 34,
+    "State Population": 4.87,
+    "Craft Breweries Per Million": 6.98,
+    "Ski Areas": 1,
+    "Ski Areas Per Million": 0.21,
+    "Average Snowfall": 1.4,
+    "": ""
+  },
+  {
+    "State": "Oklahoma",
+    "Craft Breweries": 27,
+    "State Population": 3.93,
+    "Craft Breweries Per Million": 6.87,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 10,
+    "": ""
+  },
+  {
+    "State": "Georgia",
+    "Craft Breweries": 69,
+    "State Population": 10.43,
+    "Craft Breweries Per Million": 6.62,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 1.5,
+    "": ""
+  },
+  {
+    "State": "Mississippi",
+    "Craft Breweries": 12,
+    "State Population": 2.91,
+    "Craft Breweries Per Million": 4.12,
+    "Ski Areas": 0,
+    "Ski Areas Per Million": 0,
+    "Average Snowfall": 2,
+    "": ""
+  }
+]
