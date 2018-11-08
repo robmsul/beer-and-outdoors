@@ -1,9 +1,15 @@
-.nav {
+#navbar {
   background-color: #1d1f24;
   padding: 15px 20px;
   display: flex;
   justify-content: space-between;
   height: 50px;
+  width: 100%;
+  transition: top 0.3s;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 1000;
 }
 #frsklogo {
   margin: 10px 0px 0px 60px;
@@ -53,8 +59,7 @@ body {
 .story {
   width: 100%;
   max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 100px auto auto auto;
 }
 
 .footer {
@@ -105,21 +110,24 @@ body {
     color: gray;
 }
 
-/* brewVsSki chart */
-#brewVsSki {
-  width: 100%;
-  height: 100%;
-  max-height: 500px;
-  margin: 0;
-  padding: 0;
-}
-
-#brewVsSki>svg {
-  display: block;
-}
-
 .highcharts-tooltip h3 {
     margin: 0.3em 0;
+}
+/*-------Taucharts */
+html,
+body,
+#scatter {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.tau-chart__layout {
+  min-height: 400px;
+}
+
+#scatter>svg {
+  display: block;
 }
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
@@ -150,7 +158,24 @@ body {
     text-align: left;
   }
 }
+@media screen and (max-width: 800px) {
 
+  .tau-chart__layout__container {
+    flex-direction: column;
+  }
+  .tau-chart__legend {
+    display: inline;
+    margin: 10px 0px;
+    height: 210px;
+  }
+  .tau-chart__layout__sidebar-right__wrap {
+    margin: 0px 10px;
+    width: 95%;
+  }
+  .tau-chart__layout__sidebar-right {
+    height: 230px;
+  }
+}
 @media screen and (max-width: 500px) {
   #frsklogo {
     margin-left: 0px;

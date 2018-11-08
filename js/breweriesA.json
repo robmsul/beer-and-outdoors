@@ -3,468 +3,510 @@
     "State": "Vermont",
     "Craft Breweries Per Million People": 88.71,
     "Ski Areas Per Million People": 41.94,
-    "State Population (mil)": 0.62,
+    "State Population": 0.62,
     "Craft Breweries": 55,
     "Ski Areas": 26,
-    "Average Annual Snowfall (in)": 89
+    "Average Annual Snowfall": 89,
+    "": ""
   },
   {
     "State": "Maine",
     "Craft Breweries Per Million People": 73.88,
     "Ski Areas Per Million People": 14.93,
-    "State Population (mil)": 1.34,
+    "State Population": 1.34,
     "Craft Breweries": 99,
     "Ski Areas": 20,
-    "Average Annual Snowfall (in)": 91
+    "Average Annual Snowfall": 91,
+    "": ""
   },
   {
     "State": "Montana",
     "Craft Breweries Per Million People": 71.43,
     "Ski Areas Per Million People": 13.33,
-    "State Population (mil)": 1.05,
+    "State Population": 1.05,
     "Craft Breweries": 75,
     "Ski Areas": 14,
-    "Average Annual Snowfall (in)": 55
+    "Average Annual Snowfall": 55,
+    "": ""
   },
   {
     "State": "Oregon",
     "Craft Breweries Per Million People": 64.25,
     "Ski Areas Per Million People": 2.9,
-    "State Population (mil)": 4.14,
+    "State Population": 4.14,
     "Craft Breweries": 266,
     "Ski Areas": 12,
-    "Average Annual Snowfall (in)": 41
+    "Average Annual Snowfall": 41,
+    "": ""
   },
   {
     "State": "Colorado",
     "Craft Breweries Per Million People": 62.03,
     "Ski Areas Per Million People": 5.53,
-    "State Population (mil)": 5.61,
+    "State Population": 5.61,
     "Craft Breweries": 348,
     "Ski Areas": 31,
-    "Average Annual Snowfall (in)": 104
+    "Average Annual Snowfall": 104,
+    "": ""
   },
   {
     "State": "Washington",
     "Craft Breweries Per Million People": 49.8,
     "Ski Areas Per Million People": 2.16,
-    "State Population (mil)": 7.41,
+    "State Population": 7.41,
     "Craft Breweries": 369,
     "Ski Areas": 16,
-    "Average Annual Snowfall (in)": 120
+    "Average Annual Snowfall": 120,
+    "": ""
   },
   {
     "State": "Alaska",
     "Craft Breweries Per Million People": 48.65,
     "Ski Areas Per Million People": 12.16,
-    "State Population (mil)": 0.74,
+    "State Population": 0.74,
     "Craft Breweries": 36,
     "Ski Areas": 9,
-    "Average Annual Snowfall (in)": 98
+    "Average Annual Snowfall": 98,
+    "": ""
   },
   {
     "State": "New Hampshire",
     "Craft Breweries Per Million People": 43.28,
     "Ski Areas Per Million People": 20.9,
-    "State Population (mil)": 1.34,
+    "State Population": 1.34,
     "Craft Breweries": 58,
     "Ski Areas": 28,
-    "Average Annual Snowfall (in)": 101
+    "Average Annual Snowfall": 101,
+    "": ""
   },
   {
     "State": "Wyoming",
     "Craft Breweries Per Million People": 41.38,
     "Ski Areas Per Million People": 15.52,
-    "State Population (mil)": 0.58,
+    "State Population": 0.58,
     "Craft Breweries": 24,
     "Ski Areas": 9,
-    "Average Annual Snowfall (in)": 73
+    "Average Annual Snowfall": 73,
+    "": ""
   },
   {
     "State": "Michigan",
     "Craft Breweries Per Million People": 33.13,
     "Ski Areas Per Million People": 4.42,
-    "State Population (mil)": 9.96,
+    "State Population": 9.96,
     "Craft Breweries": 330,
     "Ski Areas": 44,
-    "Average Annual Snowfall (in)": 102
+    "Average Annual Snowfall": 102,
+    "": ""
   },
   {
     "State": "New Mexico",
     "Craft Breweries Per Million People": 32.06,
     "Ski Areas Per Million People": 4.31,
-    "State Population (mil)": 2.09,
+    "State Population": 2.09,
     "Craft Breweries": 67,
     "Ski Areas": 9,
-    "Average Annual Snowfall (in)": 22
+    "Average Annual Snowfall": 22,
+    "": ""
   },
   {
     "State": "Idaho",
     "Craft Breweries Per Million People": 31.4,
     "Ski Areas Per Million People": 9.88,
-    "State Population (mil)": 1.72,
+    "State Population": 1.72,
     "Craft Breweries": 54,
     "Ski Areas": 17,
-    "Average Annual Snowfall (in)": 64,
+    "Average Annual Snowfall": 64,
+    "": ""
   },
   {
     "State": "Minnesota",
     "Craft Breweries Per Million People": 28.32,
     "Ski Areas Per Million People": 3.58,
-    "State Population (mil)": 5.58,
+    "State Population": 5.58,
     "Craft Breweries": 158,
     "Ski Areas": 20,
-    "Average Annual Snowfall (in)": 60
+    "Average Annual Snowfall": 60,
+    "": ""
   },
   {
     "State": "Wisconsin",
     "Craft Breweries Per Million People": 27.59,
     "Ski Areas Per Million People": 5.17,
-    "State Population (mil)": 5.8,
+    "State Population": 5.8,
     "Craft Breweries": 160,
     "Ski Areas": 30,
-    "Average Annual Snowfall (in)": 47
+    "Average Annual Snowfall": 47,
+    "": ""
   },
   {
     "State": "Nebraska",
     "Craft Breweries Per Million People": 25.52,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 1.92,
+    "State Population": 1.92,
     "Craft Breweries": 49,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 32
+    "Average Annual Snowfall": 32,
+    "": ""
   },
   {
     "State": "North Carolina",
     "Craft Breweries Per Million People": 25.02,
     "Ski Areas Per Million People": 0.58,
-    "State Population (mil)": 10.27,
+    "State Population": 10.27,
     "Craft Breweries": 257,
     "Ski Areas": 6,
-    "Average Annual Snowfall (in)": 16
+    "Average Annual Snowfall": 16,
+    "": ""
   },
   {
     "State": "Iowa",
     "Craft Breweries Per Million People": 24.13,
     "Ski Areas Per Million People": 1.27,
-    "State Population (mil)": 3.15,
+    "State Population": 3.15,
     "Craft Breweries": 76,
     "Ski Areas": 4,
-    "Average Annual Snowfall (in)": 34
+    "Average Annual Snowfall": 34,
+    "": ""
   },
   {
     "State": "Virginia",
     "Craft Breweries Per Million People": 22.43,
     "Ski Areas Per Million People": 0.59,
-    "State Population (mil)": 8.47,
+    "State Population": 8.47,
     "Craft Breweries": 190,
     "Ski Areas": 5,
-    "Average Annual Snowfall (in)": 18
+    "Average Annual Snowfall": 18,
+    "": ""
   },
   {
     "State": "Pennsylvania",
     "Craft Breweries Per Million People": 22.01,
     "Ski Areas Per Million People": 2.03,
-    "State Population (mil)": 12.81,
+    "State Population": 12.81,
     "Craft Breweries": 282,
     "Ski Areas": 26,
-    "Average Annual Snowfall (in)": 51
+    "Average Annual Snowfall": 51,
+    "": ""
   },
   {
     "State": "Delaware",
     "Craft Breweries Per Million People": 21.88,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 0.96,
+    "State Population": 0.96,
     "Craft Breweries": 21,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 21
+    "Average Annual Snowfall": 21,
+    "": ""
   },
   {
     "State": "Indiana",
     "Craft Breweries Per Million People": 20.54,
     "Ski Areas Per Million People": 0.3,
-    "State Population (mil)": 6.67,
+    "State Population": 6.67,
     "Craft Breweries": 137,
     "Ski Areas": 2,
-    "Average Annual Snowfall (in)": 34
+    "Average Annual Snowfall": 34,
+    "": ""
   },
   {
     "State": "California",
     "Craft Breweries Per Million People": 19.32,
     "Ski Areas Per Million People": 0.73,
-    "State Population (mil)": 39.54,
+    "State Population": 39.54,
     "Craft Breweries": 764,
     "Ski Areas": 29,
-    "Average Annual Snowfall (in)": 60
+    "Average Annual Snowfall": 60,
+    "": ""
   },
   {
     "State": "Ohio",
     "Craft Breweries Per Million People": 19.3,
     "Ski Areas Per Million People": 0.43,
-    "State Population (mil)": 11.66,
+    "State Population": 11.66,
     "Craft Breweries": 225,
     "Ski Areas": 5,
-    "Average Annual Snowfall (in)": 41
+    "Average Annual Snowfall": 41,
+    "": ""
   },
   {
     "State": "Massachusetts",
     "Craft Breweries Per Million People": 18.8,
     "Ski Areas Per Million People": 2.04,
-    "State Population (mil)": 6.86,
+    "State Population": 6.86,
     "Craft Breweries": 129,
     "Ski Areas": 14,
-    "Average Annual Snowfall (in)": 56
+    "Average Annual Snowfall": 56,
+    "": ""
   },
   {
     "State": "South Dakota",
     "Craft Breweries Per Million People": 18.39,
     "Ski Areas Per Million People": 3.45,
-    "State Population (mil)": 0.87,
+    "State Population": 0.87,
     "Craft Breweries": 16,
     "Ski Areas": 3,
-    "Average Annual Snowfall (in)": 40
+    "Average Annual Snowfall": 40,
+    "": ""
   },
   {
     "State": "D.C.",
     "Craft Breweries Per Million People": 17.39,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 0.69,
+    "State Population": 0.69,
     "Craft Breweries": 12,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 19
+    "Average Annual Snowfall": 19,
+    "": ""
   },
   {
     "State": "Connecticut",
     "Craft Breweries Per Million People": 16.71,
     "Ski Areas Per Million People": 1.67,
-    "State Population (mil)": 3.59,
+    "State Population": 3.59,
     "Craft Breweries": 60,
     "Ski Areas": 6,
-    "Average Annual Snowfall (in)": 39
+    "Average Annual Snowfall": 39,
+    "": ""
   },
   {
     "State": "New York",
     "Craft Breweries Per Million People": 16.57,
     "Ski Areas Per Million People": 2.62,
-    "State Population (mil)": 19.85,
+    "State Population": 19.85,
     "Craft Breweries": 329,
     "Ski Areas": 52,
-    "Average Annual Snowfall (in)": 79
+    "Average Annual Snowfall": 79,
+    "": ""
   },
   {
     "State": "Rhode Island",
     "Craft Breweries Per Million People": 16.04,
     "Ski Areas Per Million People": 0.94,
-    "State Population (mil)": 1.06,
+    "State Population": 1.06,
     "Craft Breweries": 17,
     "Ski Areas": 1,
-    "Average Annual Snowfall (in)": 30
+    "Average Annual Snowfall": 30,
+    "": ""
   },
   {
     "State": "North Dakota",
     "Craft Breweries Per Million People": 15.79,
     "Ski Areas Per Million People": 2.63,
-    "State Population (mil)": 0.76,
+    "State Population": 0.76,
     "Craft Breweries": 12,
     "Ski Areas": 2,
-    "Average Annual Snowfall (in)": 41
+    "Average Annual Snowfall": 41,
+    "": ""
   },
   {
     "State": "Illinois",
     "Craft Breweries Per Million People": 15.63,
     "Ski Areas Per Million People": 0.47,
-    "State Population (mil)": 12.8,
+    "State Population": 12.8,
     "Craft Breweries": 200,
     "Ski Areas": 6,
-    "Average Annual Snowfall (in)": 23
+    "Average Annual Snowfall": 23,
+    "": ""
   },
   {
     "State": "Missouri",
     "Craft Breweries Per Million People": 14.89,
     "Ski Areas Per Million People": 0.33,
-    "State Population (mil)": 6.11,
+    "State Population": 6.11,
     "Craft Breweries": 91,
     "Ski Areas": 2,
-    "Average Annual Snowfall (in)": 19
+    "Average Annual Snowfall": 19,
+    "": ""
   },
   {
     "State": "Arizona",
     "Craft Breweries Per Million People": 13.68,
     "Ski Areas Per Million People": 0.57,
-    "State Population (mil)": 7.02,
+    "State Population": 7.02,
     "Craft Breweries": 96,
     "Ski Areas": 4,
-    "Average Annual Snowfall (in)": 25
+    "Average Annual Snowfall": 25,
+    "": ""
   },
   {
     "State": "Nevada",
     "Craft Breweries Per Million People": 13.33,
     "Ski Areas Per Million People": 1.67,
-    "State Population (mil)": 3,
+    "State Population": 3,
     "Craft Breweries": 40,
     "Ski Areas": 5,
-    "Average Annual Snowfall (in)": 27
+    "Average Annual Snowfall": 27,
+    "": ""
   },
   {
     "State": "West Virginia",
     "Craft Breweries Per Million People": 12.64,
     "Ski Areas Per Million People": 2.75,
-    "State Population (mil)": 1.82,
+    "State Population": 1.82,
     "Craft Breweries": 23,
     "Ski Areas": 5,
-    "Average Annual Snowfall (in)": 50
+    "Average Annual Snowfall": 50,
+    "": ""
   },
   {
     "State": "Hawaii",
     "Craft Breweries Per Million People": 12.59,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 1.43,
+    "State Population": 1.43,
     "Craft Breweries": 18,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 0
+    "Average Annual Snowfall": 0,
+    "": ""
   },
   {
     "State": "Kansas",
     "Craft Breweries Per Million People": 12.37,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 2.91,
+    "State Population": 2.91,
     "Craft Breweries": 36,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 22
+    "Average Annual Snowfall": 22,
+    "": ""
   },
   {
     "State": "Tennessee",
     "Craft Breweries Per Million People": 12.2,
     "Ski Areas Per Million People": 0.15,
-    "State Population (mil)": 6.72,
+    "State Population": 6.72,
     "Craft Breweries": 82,
     "Ski Areas": 1,
-    "Average Annual Snowfall (in)": 13
+    "Average Annual Snowfall": 13,
+    "": ""
   },
   {
     "State": "South Carolina",
     "Craft Breweries Per Million People": 12.15,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 5.02,
+    "State Population": 5.02,
     "Craft Breweries": 61,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 5
+    "Average Annual Snowfall": 5,
+    "": ""
   },
   {
     "State": "Maryland",
     "Craft Breweries Per Million People": 12.07,
     "Ski Areas Per Million People": 0.17,
-    "State Population (mil)": 6.05,
+    "State Population": 6.05,
     "Craft Breweries": 73,
     "Ski Areas": 1,
-    "Average Annual Snowfall (in)": 36
+    "Average Annual Snowfall": 36,
+    "": ""
   },
   {
     "State": "Kentucky",
     "Craft Breweries Per Million People": 11.69,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 4.45,
+    "State Population": 4.45,
     "Craft Breweries": 52,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 18
+    "Average Annual Snowfall": 18,
+    "": ""
   },
   {
     "State": "Arkansas",
     "Craft Breweries Per Million People": 11.67,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 3,
+    "State Population": 3,
     "Craft Breweries": 35,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 5
+    "Average Annual Snowfall": 5,
+    "": ""
   },
   {
     "State": "Florida",
     "Craft Breweries Per Million People": 11.58,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 20.98,
+    "State Population": 20.98,
     "Craft Breweries": 243,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 0.1
+    "Average Annual Snowfall": 0.1,
+    "": ""
   },
   {
     "State": "New Jersey",
     "Craft Breweries Per Million People": 9.99,
     "Ski Areas Per Million People": 0.22,
-    "State Population (mil)": 9.01,
+    "State Population": 9.01,
     "Craft Breweries": 90,
     "Ski Areas": 2,
-    "Average Annual Snowfall (in)": 21
+    "Average Annual Snowfall": 21,
+    "": ""
   },
   {
     "State": "Utah",
     "Craft Breweries Per Million People": 9.68,
     "Ski Areas Per Million People": 4.52,
-    "State Population (mil)": 3.1,
+    "State Population": 3.1,
     "Craft Breweries": 30,
     "Ski Areas": 14,
-    "Average Annual Snowfall (in)": 71
+    "Average Annual Snowfall": 71,
+    "": ""
   },
   {
     "State": "Texas",
     "Craft Breweries Per Million People": 8.87,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 28.3,
+    "State Population": 28.3,
     "Craft Breweries": 251,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 8
+    "Average Annual Snowfall": 8,
+    "": ""
   },
   {
     "State": "Louisiana",
     "Craft Breweries Per Million People": 7.05,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 4.68,
+    "State Population": 4.68,
     "Craft Breweries": 33,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 0.5
+    "Average Annual Snowfall": 0.5,
+    "": ""
   },
   {
     "State": "Alabama",
     "Craft Breweries Per Million People": 6.98,
     "Ski Areas Per Million People": 0.21,
-    "State Population (mil)": 4.87,
+    "State Population": 4.87,
     "Craft Breweries": 34,
     "Ski Areas": 1,
-    "Average Annual Snowfall (in)": 1.4
+    "Average Annual Snowfall": 1.4,
+    "": ""
   },
   {
     "State": "Oklahoma",
     "Craft Breweries Per Million People": 6.87,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 3.93,
+    "State Population": 3.93,
     "Craft Breweries": 27,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 10
+    "Average Annual Snowfall": 10,
+    "": ""
   },
   {
     "State": "Georgia",
     "Craft Breweries Per Million People": 6.62,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 10.43,
+    "State Population": 10.43,
     "Craft Breweries": 69,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 1.5
+    "Average Annual Snowfall": 1.5,
+    "": ""
   },
   {
     "State": "Mississippi",
     "Craft Breweries Per Million People": 4.12,
     "Ski Areas Per Million People": 0,
-    "State Population (mil)": 2.91,
+    "State Population": 2.91,
     "Craft Breweries": 12,
     "Ski Areas": 0,
-    "Average Annual Snowfall (in)": 2
-  },
-  {
-    "State": "",
-    "Craft Breweries Per Million People": "",
-    "Ski Areas Per Million People": "",
-    "State Population (mil)": "",
-    "Craft Breweries": "",
-    "Ski Areas": "",
-    "Average Annual Snowfall (in)": ""
+    "Average Annual Snowfall": 2,
+    "": ""
   }
 ]
