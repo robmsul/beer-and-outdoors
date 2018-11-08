@@ -1,0 +1,1 @@
+This data journalism story looks for a relationship between craft beer and skiing. With data from Statista and other sources, I was able to find a slight correlation between the amount of craft breweries per million people and the amount of ski resorts per million people. More importantly, I was able to identify areas where both goods are abundant.
