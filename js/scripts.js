@@ -80,7 +80,7 @@ var mapChart = Highcharts.mapChart('map-states', {
   },
 
   subtitle: {
-      text: 'Source map: <a href="http://code.highcharts.com/mapdata/countries/us/us-all.js">United States of America</a>'
+      text: 'Source: <a href="https://www.statista.com/statistics/726518/number-craft-breweries-state/" target="_blank" >Statista</a>'
   },
 
   mapNavigation: {
@@ -92,7 +92,12 @@ var mapChart = Highcharts.mapChart('map-states', {
 
   colorAxis: {
       min: 0,
-      max: 775
+      max: 400,
+      tickInterval: 100,
+      stops: [[0, '#96d83f'], [0.65, '#306a8e'], [1, '#471366']],
+      labels: {
+          format: '{value}'
+          }
   },
 
   series: [{
@@ -100,7 +105,7 @@ var mapChart = Highcharts.mapChart('map-states', {
       name: 'Craft Breweries',
       states: {
           hover: {
-              color: '#2daa4b'
+              color: '#d1e11b'
           }
       },
       dataLabels: {
@@ -123,10 +128,10 @@ var skiChart = Highcharts.chart('topSki', {
         type: 'column'
     },
     title: {
-        text: 'Most Ski Areas by State'
+        text: 'States With Over 10 Ski Areas'
     },
     subtitle: {
-        text: 'Source: <a href="http://www.nsaa.org/media/303993/1617_Areas_per_state.pdf">www.nsaa.org</a>'
+        text: 'Source: <a href="https://www.statista.com/statistics/206519/number-of-ski-areas-operating-in-the-us-per-state/">Statista</a>'
     },
     xAxis: {
         type: 'category',
@@ -141,30 +146,34 @@ var skiChart = Highcharts.chart('topSki', {
     yAxis: {
         min: 0,
         title: {
-            text: 'Population (millions)'
+            text: 'Ski Areas'
         }
     },
     legend: {
-        enabled: false
+        enabled: true
     },
     tooltip: {
-        pointFormat: 'Population in 2017: <b>{point.y:.1f} millions</b>'
+        pointFormat: 'Ski areas in 2017: <b>{point.y}</b>'
     },
     series: [{
-        name: 'Population',
+        name: 'Ski Areas in 2017',
         data: [
-            ['Shanghai', 24.2],
-            ['Beijing', 20.8],
-            ['Karachi', 14.9],
-            ['Shenzhen', 13.7],
-            ['Guangzhou', 13.1],
-            ['Istanbul', 12.7],
-            ['Mumbai', 12.4],
-            ['Moscow', 12.2],
-            ['São Paulo', 12.0],
-            ['Delhi', 11.7],
-            ['Kinshasa', 11.5],
-            ['Tianjin', 11.2]
+            ['New York', 51],
+            ['Michigan', 42],
+            ['Wisconsin', 31],
+            ['New Hampshire', 30],
+            ['Colorado', 30],
+            ['California', 27],
+            ['Pennsylvania', 26],
+            ['Vermont', 26],
+            ['Maine', 20],
+            ['Minnesota', 19],
+            ['Idaho', 17],
+            ['Washington', 15],
+            ['Utah', 14],
+            ['Montana', 14],
+            ['Massachusetts', 13],
+            ['Oregon', 11]
         ],
         dataLabels: {
             enabled: false,
