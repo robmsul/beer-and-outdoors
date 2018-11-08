@@ -80,7 +80,7 @@ var mapChart = Highcharts.mapChart('map-states', {
   },
 
   subtitle: {
-      text: 'Source: <a href="https://www.statista.com/statistics/726518/number-craft-breweries-state/" target="_blank" >Statista</a>'
+      text: 'Source: <a href="https://www.statista.com/statistics/726518/number-craft-breweries-state/" target="_blank" >Number of craft beer breweries in the United States in 2017, by state</a>'
   },
 
   mapNavigation: {
@@ -131,7 +131,7 @@ var skiChart = Highcharts.chart('topSki', {
         text: 'States With Over 10 Ski Areas'
     },
     subtitle: {
-        text: 'Source: <a href="https://www.statista.com/statistics/206519/number-of-ski-areas-operating-in-the-us-per-state/">Statista</a>'
+        text: 'Source: <a href="https://www.statista.com/statistics/206519/number-of-ski-areas-operating-in-the-us-per-state/">Number of ski areas operating per state in the U.S. during the 2017/2018 season</a>'
     },
     xAxis: {
         type: 'category',
@@ -153,7 +153,7 @@ var skiChart = Highcharts.chart('topSki', {
         enabled: true
     },
     tooltip: {
-        pointFormat: 'Ski areas in 2017: <b>{point.y}</b>'
+        pointFormat: 'Ski areas in 2017/2018 season: <b>{point.y}</b>'
     },
     series: [{
         name: 'Ski Areas in 2017',

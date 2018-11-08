@@ -211,30 +211,28 @@ body,
     width: 95%;
     max-width: 750px;
 }
-@media screen and (max-width: 800px) {
-
-  .tau-chart__layout__container {
-    flex-direction: column;
-  }
-  .tau-chart__legend {
-    display: inline;
-    margin: 10px 0px;
-    height: 210px;
-  }
-  .tau-chart__layout__sidebar-right__wrap {
-    margin: 0px 10px;
-    width: 95%;
-  }
-  .tau-chart__layout__sidebar-right {
-    height: 230px;
-  }
+.tau-chart__layout__container {
+  flex-direction: column;
+}
+.tau-chart__legend {
+  display: inline;
+  margin: 10px 0px;
+  height: 210px;
+}
+.tau-chart__layout__sidebar-right__wrap {
+  margin: 0px 10px;
+  width: 95%;
+}
+.tau-chart__layout__sidebar-right {
+  height: 230px;
+}
 }
 @media screen and (max-width: 500px) {
   #frsklogo {
     margin-left: 0px;
   }
   .topnav {
-    margin-right: 0px;
+    margin-right: 20px;
   }
   .fa-2x {
     margin-left: 10px;
